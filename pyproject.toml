@@ -16,6 +16,7 @@ torch = "^2.5.0"
 datasets = "^3.0.2"
 transformers = "^4.46.0"
 category-encoders = "^2.6.4"
+optuna = "^4.1.0"
 
 
 [tool.poetry.group.dev.dependencies]
